@@ -9,18 +9,19 @@ header {
     border-radius: 4px;
 }
 
-a{
-    color: #248030;
-}
-
 main{
     background-color: #ffff8c;
     border-radius: 4px;
 }
 
+a{
+    color: #248030;
+}
+
+
 button{
     background-color: #248030;
-    border: none;
+    border: 2px solid #248030;
     border-radius: 3px;
 }
 
